@@ -1,0 +1,24 @@
+/*
+ * Constants
+ *
+ * Keep colors and reusable theme values here.
+ */
+:root {
+  --theme-color-primary: #188E8D;
+  --theme-color-secondary: #DCBF57;
+  --theme-color-accent-1: #006360;
+  --theme-color-accent-2: #024345;
+  --theme-color-accent-3: #20BDBA;
+  --theme-color-accent-4: #D4AA3A;
+  --theme-color-neutral-1: #000000;
+  --theme-color-neutral-2: #FFFFFF;
+
+  --theme-transition: all 0.3s ease-in-out;
+
+  --theme-font-body: "Inter", Josefin Sans, sans-serif;
+  --theme-font-heading: "Inter", Josefin Sans, sans-serif;
+
+  --theme-font-size-base: 16px;
+  --theme-line-height-body: 1.5;
+  --theme-line-height-heading: 1.1;
+}
